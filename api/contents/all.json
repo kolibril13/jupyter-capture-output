@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-06-23T09:31:58.240515Z",
+      "format": null,
+      "last_modified": "2022-06-23T09:31:56.472510Z",
+      "mimetype": null,
+      "name": "jupyterlite_notebook.ipynb",
+      "path": "jupyterlite_notebook.ipynb",
+      "size": 24257,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-06-23T09:31:58.240515Z",
+      "format": null,
+      "last_modified": "2022-06-23T09:31:56.468510Z",
+      "mimetype": "text/markdown",
+      "name": "README.md",
+      "path": "README.md",
+      "size": 1261,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-06-23T09:31:58.240515Z",
+  "format": "json",
+  "last_modified": "2022-06-23T09:31:58.240515Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
