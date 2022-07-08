@@ -2,9 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-07-08T15:10:34.929238Z",
+      "created": "2022-07-08T15:25:53.230974Z",
       "format": null,
-      "last_modified": "2022-07-08T15:10:32.817206Z",
+      "last_modified": "2022-07-08T15:25:51.730953Z",
+      "mimetype": "image/jpeg",
+      "name": "cute_dog.jpg",
+      "path": "cute_dog.jpg",
+      "size": 132562,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-07-08T15:25:53.230974Z",
+      "format": null,
+      "last_modified": "2022-07-08T15:25:51.730953Z",
       "mimetype": null,
       "name": "jupyterlite_capture_notebook.ipynb",
       "path": "jupyterlite_capture_notebook.ipynb",
@@ -14,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-08T15:10:34.929238Z",
+      "created": "2022-07-08T15:25:53.230974Z",
       "format": null,
-      "last_modified": "2022-07-08T15:10:32.817206Z",
+      "last_modified": "2022-07-08T15:25:51.730953Z",
       "mimetype": null,
       "name": "cap_example_notebook.ipynb",
       "path": "cap_example_notebook.ipynb",
@@ -26,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-07-08T15:10:34.925237Z",
+      "created": "2022-07-08T15:25:53.230974Z",
       "format": null,
-      "last_modified": "2022-07-08T15:10:32.813206Z",
+      "last_modified": "2022-07-08T15:25:51.726953Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -37,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-07-08T15:10:34.929238Z",
+  "created": "2022-07-08T15:25:53.230974Z",
   "format": "json",
-  "last_modified": "2022-07-08T15:10:34.929238Z",
+  "last_modified": "2022-07-08T15:25:53.230974Z",
   "mimetype": null,
   "name": "",
   "path": "",
