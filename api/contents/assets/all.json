@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-07-08T15:38:30.402010Z",
+      "format": null,
+      "last_modified": "2022-07-08T15:38:28.822021Z",
+      "mimetype": "image/jpeg",
+      "name": "cute_dog.jpg",
+      "path": "assets/cute_dog.jpg",
+      "size": 132562,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-07-08T15:38:30.402010Z",
+  "format": "json",
+  "last_modified": "2022-07-08T15:38:30.402010Z",
+  "mimetype": null,
+  "name": "assets",
+  "path": "assets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
